@@ -28,4 +28,7 @@ public class Tabla {
         return tabla.toString();
     }
     
+    public int multiplicar(int numero){
+        return this.numero*numero;
+    }
 }

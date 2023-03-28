@@ -15,6 +15,7 @@ public class Main {
     public static void main(String[] args) {
         
         Tabla t= new Tabla(5);
+        System.out.println("hola");
         
         System.out.println(t.tablaDeMultiplicar());
     }
